@@ -1,3 +1,5 @@
 # Squiggly-lines
+This app is an expenemation into [inverse kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) using the [Processing library](https://processing.org/) 
 
-### If anyone would like to talk about the code feel free to DM me on slack.
+## Setup
+Open project directroy as a gradle project and refresh gradle
